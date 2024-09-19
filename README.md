@@ -6,3 +6,4 @@ ALOHA and Demostart
 Altera Project Sid  
 Weave Issac  
 PNDbotics - Humanoid robotics startup   
+[1x World model](https://www.1x.tech/discover/1x-world-model)
