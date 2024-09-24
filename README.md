@@ -9,4 +9,4 @@ PNDbotics - Humanoid robotics startup
 [1x World model](https://www.1x.tech/discover/1x-world-model)  
 [Agibot](https://www.agibot.com/)  
 [Unitree Robotics](https://www.unitree.com/)  
-[Pudo Robotics](https://www.pudurobotics.com/news/917)
+[Pudu Robotics](https://www.pudurobotics.com/news/917)
